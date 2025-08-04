@@ -1,0 +1,2 @@
+# SQL_DEVELOPER_INTERNSHIP_TASK1
+Library DB schema design
